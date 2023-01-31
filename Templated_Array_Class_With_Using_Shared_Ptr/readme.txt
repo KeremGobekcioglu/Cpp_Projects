@@ -1,0 +1,1 @@
+In this project , i have created an templated fully dynamic array class with using shared_ptr. I also wrote an Iterator for this class.
